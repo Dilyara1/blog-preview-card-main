@@ -30,10 +30,6 @@ main {
     background-color: white;
 }
 
-.blog-card__title {
-    margin: 16px 0;
-}
-
 .blog-card__subtitle {
     color: hsl(0, 0%, 42%);
     font-weight: 400;
